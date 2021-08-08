@@ -185,7 +185,7 @@ static char *result[] = {
 "[. c #01EB01",
 "{. c #0CE701",
 "}. c #01F400",
-"|. c #00FF00",
+"|. c #00FF01",
 " X c #0AF900",
 ".X c #16F700",
 "XX c #1AEC00",

@@ -1,11 +1,11 @@
 R 1920 1080
-S ./textures/sprites/marvin.xpm
-NO ./textures/walls/bluecloud_bk.xpm
-WE ./textures/walls/bluecloud_lf.xpm
-EA ./textures/walls/bluecloud_up.xpm
-SO ./textures/walls/graycloud_dn.xpm
-C 135,206,250
-F 176,196,222
+S ./textures/sprites/cacto.xpm
+NO ./textures/walls/muro01.xpm
+WE ./textures/walls/muro02.xpm
+EA ./textures/walls/muro03.xpm
+SO ./textures/walls/muro04.xpm
+C 255,99,71
+F 128,128,0
 
 1111111111111111111111111111
 1000000020000000002000000001
