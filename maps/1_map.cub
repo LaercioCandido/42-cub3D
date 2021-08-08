@@ -1,9 +1,9 @@
-R 1920 1080
-S ./text/textures/sprites/nemo.xpm
-NO ./text/textures/walls/ocean1.xpm
-WE ./text/textures/walls/ocean2.xpm
-EA ./text/textures/walls/ocean3.xpm
-SO ./text/textures/walls/ocean4.xpm
+R 1000 800
+S ./textures/sprites/lata.xpm
+NO ./textures/walls/caixa01.xpm
+WE ./textures/walls/caixa02.xpm
+EA ./textures/walls/caixa03.xpm
+SO ./textures/walls/caixa04.xpm
 
 C 10,154,217
 F 112,191,223
