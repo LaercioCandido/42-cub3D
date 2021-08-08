@@ -94,7 +94,7 @@ int	main(int argc, char **argv)
 	set_param(&game);
 	if (game.init == 0)
 		game.data.win = mlx_new_window(game.data.mlx,
-				game.file.width, game.file.height, "Cub3D");
+				game.file.width, game.file.height, "...::: cub3D :::...");
 	game.data.img = mlx_new_image(game.data.mlx,
 			game.file.width, game.file.height);
 	game.data.addr = (int *)mlx_get_data_addr(game.data.img,
